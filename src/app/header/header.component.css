@@ -1,0 +1,17 @@
+.header {
+    overflow: hidden;
+    background-color: #c71818;
+    padding: 20px 10px;
+  }
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .header a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .header a.active {
+    background-color: dodgerblue;
+    color: white;
+  }
